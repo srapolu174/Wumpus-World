@@ -4,4 +4,4 @@ The Wumpus World was introduced by Genesereth, and is discussed in Russell-Norvi
 
 It is a cave with a number of rooms, represented as a 4x4 square.
 
-We have implemeted this game using if-and-else,A* algorithm,probability.
+We have implemeted this game using if-and-else, A* algorithm and probability.
