@@ -29,7 +29,7 @@ public class MyAgent implements Agent {
 //-----------------------------------------------------------------
 
 	// Direct Method which takes integer as input
-	// [ possible values :1-Right,2-Left,3-Up,4-down]
+	// [ possible values :1-Right, 2-Left, 3-Up, 4-down]
 	// 12+4 possibilities
 	public void direction(int x) {
 		int i = 0, dif;
@@ -75,8 +75,8 @@ public class MyAgent implements Agent {
 
 // -----------------------------------------------------------------
 
-	// Shoot arrow method which takes direction as input shoots the 
-	// [ possible values :1-Right,2-Left,3-Up,4-down]
+	// Shoot arrow method: which takes direction as input shoots the arrow
+	// [ possible values :1-Right, 2-Left, 3-Up, 4-down]
 	// 12+4 possibilities
 	public void arrow(int x) {
 		int i = 0, dif;
