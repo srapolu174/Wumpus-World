@@ -2,7 +2,7 @@ package wumpusworld;
 
 /**
  * Contains starting code for creating your own  World agent. Currently
- * the agent only make a random decision each turn.
+ * the agent only make a random decision each turn. We 
  * 
  * @author Johan Hagelbäck
  */
@@ -20,7 +20,7 @@ public class MyAgent implements Agent {
 	/**
 	 * Creates a new instance of your solver agent.
 	 * 
-	 * @param world Current world statea
+	 * @param world Current world state
 	 */
 	public MyAgent(World world) {
 		w = world;
