@@ -234,7 +234,7 @@ public class MyAgent implements Agent {
 
 //-------------------------------------------------------------------------------------------	
 
-	// if the box contains both the breeze and stench the methid will be executed
+	// if the box contains both the breeze and stench, then this method will be executed
 	// will see the probabilities of adjacent blocks and move accordingly
 	// and update the probabilities to the adjacent boxes.
 	public void breezeAndStrenchMethod(int[][] room, int cX, int cY, int x, int y) {
