@@ -174,7 +174,7 @@ public class MyAgent implements Agent {
 						 score=score+room[x][y];
 							if (move != 1 && (y + 1) <= 3 ) {
 
-								// movie right
+								// move right
 								 
 									if(c1<20) {
 									a[c1] = 1;
@@ -663,7 +663,7 @@ public class MyAgent implements Agent {
 
 //-------------------------------------------------------------------------------------------	
 	/**
-	 * Asks your solver agent to execute an action.
+	 * Asks the solver agent to execute an action.
 	 */
 
 	public void doAction() {
