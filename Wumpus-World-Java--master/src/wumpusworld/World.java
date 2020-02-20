@@ -82,7 +82,7 @@ public class World
     /**
      * Returns the current score.
      * 
-     * @return The score.
+     * @return the score.
      */
     public int getScore()
     {
@@ -92,7 +92,7 @@ public class World
     /**
      * Returns the size of this Wumpus World.
      * 
-     * @return The size 
+     * @return the size 
      */
     public int getSize()
     {
